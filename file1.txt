@@ -5,3 +5,4 @@ line4 in feature branch
 line 5
 Happy sunday
 line 6
+line 7
